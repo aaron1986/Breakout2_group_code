@@ -79,12 +79,12 @@
                                     "id": "openRecentFile",
                                     "uri": {
                                         "$mid": 1,
-                                        "external": "file:///Breakout2_group_code",
-                                        "path": "/Breakout2_group_code",
+                                        "external": "file:///root/index.html",
+                                        "path": "/root/index.html",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
-                                    "label": "/Breakout2_group_code"
+                                    "label": "~/index.html"
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
@@ -728,7 +728,8 @@
                 "items": [
                     {
                         "id": "workbench.action.navigateBack",
-                        "label": "&&Back"
+                        "label": "&&Back",
+                        "enabled": false
                     },
                     {
                         "id": "workbench.action.navigateForward",
@@ -737,7 +738,8 @@
                     },
                     {
                         "id": "workbench.action.navigateToLastEditLocation",
-                        "label": "&&Last Edit Location"
+                        "label": "&&Last Edit Location",
+                        "enabled": false
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -1646,7 +1648,7 @@
             "editorPartMinWidth": 220,
             "titleBarHeight": 0,
             "activityBarWidth": 48,
-            "sideBarWidth": 300,
+            "sideBarWidth": 264,
             "statusBarHeight": 22,
             "windowBorder": false
         }
