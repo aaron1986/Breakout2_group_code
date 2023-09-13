@@ -1,3 +1,4 @@
+
 body {
     
 }
@@ -30,11 +31,14 @@ h2 {
     margin-top: 5%;
     display: grid;
     justify-content: center;
-    grid-template-columns: repeat(3, 1fr);
+    grid-template-columns: repeat(4, 1fr);
 }
 
 img {
 
-    width: 300px;
+    width: 350px;
     height: 300px;
 }
+
+
+

@@ -1,3 +1,4 @@
+
 body {
     
 }
@@ -13,7 +14,7 @@ li > a {
 }
 
  a:hover {
-    color: red;
+    color: green;
  }
 
 h2 {
@@ -27,7 +28,6 @@ h2 {
 
 
 .image-container{
-    margin-top: 5%;
     display: grid;
     justify-content: center;
     grid-template-columns: repeat(3, 1fr);
@@ -38,3 +38,6 @@ img {
     width: 300px;
     height: 300px;
 }
+
+
+
