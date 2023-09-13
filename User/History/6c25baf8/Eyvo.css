@@ -1,0 +1,35 @@
+
+body {
+    
+}
+
+ul > li {
+    display: inline;
+    float: right;
+    margin-right: 1%;
+}
+
+h2 {
+    text-align: center;
+    margin-top: 5%;
+}
+
+#text-box {
+    text-align: center;
+}
+
+
+.image-container{
+    display: grid;
+    justify-content: center;
+    grid-template-columns: repeat(3, 1fr);
+}
+
+img {
+
+    width: 200px;
+    height: 200px;
+}
+
+
+

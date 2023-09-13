@@ -1,0 +1,5 @@
+2023-09-13 09:10:44.818 [info] update#setState idle
+2023-09-13 09:11:14.809 [info] update#setState checking for updates
+2023-09-13 09:11:14.812 [info] update#setState idle
+2023-09-13 09:44:32.145 [error] [UtilityProcess id: 1, type: fileWatcher, pid: 4565]: crashed with code 139 and reason 'crashed'
+2023-09-13 09:44:36.570 [info] Extension host with pid 4586 exited with code: 0, signal: unknown.

@@ -1,0 +1,32 @@
+
+body {
+    
+}
+
+ul > li {
+    display: inline;
+    float: right;
+    margin-right: 1%;
+}
+
+h2 {
+    text-align: center;
+    margin-top: 5%;
+}
+
+#text-box {
+    text-align: center;
+}
+
+
+img {
+    width: 400px;
+    height: 400px;
+}
+
+section {
+    display: grid;
+}
+
+
+
